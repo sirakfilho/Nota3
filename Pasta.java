@@ -13,12 +13,12 @@ public class Pasta extends ArquivoC{
 	
 	public void nome() {
 		
-		System.out.println(nome + "Lucas");
+		System.out.println(nome + "RENAN");
 	}
 	
 	public void subPasta() {
 			
-		System.out.println(subPasta + "¡rea de Trablho, Lucas");
+		System.out.println(subPasta + "√Årea de Trablho, RENAN");
 		}
 	
 	
