@@ -1,6 +1,6 @@
 package model;
 
-public class Beber extends Lanchee {
+public class Beber extends Lanche {
 	
 	public Beber(LancheImplementada g) {
 		super(g);
