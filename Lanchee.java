@@ -2,11 +2,11 @@ package model;
 
 public abstract class Lanche implements LancheImplementada{
 	
-	private LancheImplementada Lanchee;
+	private LancheImplementada Lanche;
 	
 	public Lanche(LancheImplementada g) {
 		
-		Lanchee = g;
+		Lanche = g;
 	}
 	
 	public String valorRefrigerante(String refrigerante) {
