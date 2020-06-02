@@ -2,7 +2,7 @@ package view;
 
 import model.Beber;
 import model.LancheImplementada;
-import model.Lanchee;
+import model.Lanche;
 import model.ResultadoImplent;
 import model.Tamanho;
 import model.Gole;
@@ -51,7 +51,7 @@ public abstract class Main {
 		
 		System.out.println(arquiv);
 		
-		System.out.println("FIM!!!");
+		System.out.println("OK");
 	}
 
 }
