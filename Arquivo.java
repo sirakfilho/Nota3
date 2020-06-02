@@ -17,7 +17,7 @@ public class Arquivo extends ArquivoC{
 		}
 	
 	public void tamanhoKB() {
-		System.out.println(tamanhoKB + "90KB");
+		System.out.println(tamanhoKB + "75KB");
 		
 		}
 	
