@@ -1,6 +1,6 @@
 package model;
 
-public class Tamanho extends Lanchee{
+public class Tamanho extends Lanche{
 	
 	public Tamanho(LancheImplementada g) {
 		
