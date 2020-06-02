@@ -1,40 +1,40 @@
 package model;
 
-public abstract class Lanchee implements LancheImplementada{
+public abstract class Lanche implements LancheImplementada{
 	
 	private LancheImplementada Lanchee;
 	
-	public Lanchee(LancheImplementada g) {
+	public Lanche(LancheImplementada g) {
 		
 		Lanchee = g;
 	}
 	
 	public String valorRefrigerante(String refrigerante) {
 			
-			return Lanchee.valorRefrigerante(refrigerante);
+			return Lanche.valorRefrigerante(refrigerante);
 	}
 	
 	public String valorTamanho(String tamanho) {
 		
-		return Lanchee.valorTamanho(tamanho);
+		return Lanche.valorTamanho(tamanho);
 		
 	}
 	
 	public String valorQuantidade(String quantidadeGole) {
 		
 		
-		return Lanchee.valorQuantidade(quantidadeGole);
+		return Lanche.valorQuantidade(quantidadeGole);
 	}
 	
 	public String valorPasta(String pasta) {
 		
-		return Lanchee.valorPasta(pasta);
+		return Lanche.valorPasta(pasta);
 		
 	}
 	
 	public String valorArquivo(String arquivo) {
 		
-		return Lanchee.valorArquivo(arquivo);
+		return Lanche.valorArquivo(arquivo);
 	}
 	
 	
