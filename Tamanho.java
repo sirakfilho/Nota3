@@ -2,9 +2,9 @@ package model;
 
 public class Tamanho extends Lanche{
 	
-	public Tamanho(LancheImplementada g) {
+	public Tamanho(LancheImplementada XG) {
 		
-		super(g);
+		super(XG);
 		
 	}
 	
