@@ -11,17 +11,17 @@ public class ResultadoImplent implements LancheImplementada{
 
 	@Override
 	public String valorTamanho(String tamanho) {
-		return (tamanho+ "Tamanho FamÌlia");
+		return (tamanho+ "Tamanho Fam√≠lia");
 	}
 
 	@Override
 	public String valorQuantidade(String quantidadeGole) {
-		return (quantidadeGole+ "3 Gole");
+		return (quantidadeGole+ "2 Gole");
 	}
 
 	@Override
 	public String valorPasta(String pasta) {
-		return (pasta+ "¡rea de Trabalho");
+		return (pasta+ "√Årea de Trabalho");
 	}
 
 	@Override
